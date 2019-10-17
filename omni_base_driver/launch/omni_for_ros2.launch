@@ -7,7 +7,7 @@
 	    <arg name="odom_topic_arg"  value="odom_data"/>
 	    <arg name="odom_id_arg"   	value="odom" />
 	    <arg name="imu_topic_arg"	value="imu" />
-	    <arg name="enable_tf_arg"  	value="true" />
+	    <arg name="enable_tf_arg"  	value="false" />
 	    <arg name="vel_timeout_arg" value="1" />
 	</include>	
   
